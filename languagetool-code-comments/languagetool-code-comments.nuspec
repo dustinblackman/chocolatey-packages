@@ -15,7 +15,7 @@
     <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/languagetool-code-comments</packageSourceUrl>
     <tags>languagetool-code-comments</tags>
     <copyright>Dustin Blackman</copyright>
-    <licenseUrl>https://github.com/dustinblackman/languagetool-code-comments/blob/master/LICENSE.md</licenseUrl>
+    <licenseUrl>https://github.com/dustinblackman/languagetool-code-comments/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies></dependencies>
   </metadata>
