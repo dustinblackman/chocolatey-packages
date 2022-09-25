@@ -14,7 +14,7 @@
     <docsUrl>https://github.com/dustinblackman/languagetool-code-comments/blob/master/README.md</docsUrl>
     <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/languagetool-code-comments</packageSourceUrl>
     <tags>languagetool-code-comments</tags>
-    <copyright>Dustin Blackman</copyright>
+    <copyright></copyright>
     <licenseUrl>https://github.com/dustinblackman/languagetool-code-comments/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies></dependencies>
