@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>cf-alias</id>
+    <title>cf-alias</title>
+    <version>0.1.5</version>
+    <authors>dustinblackman</authors>
+    <owners>Dustin Blackman</owners>
+    <summary>Create Cloudflare email alias' directly from your terminal or Alfred.</summary>
+    <description>Create Cloudflare email alias' directly from your terminal or Alfred.</description>
+    <projectUrl>https://github.com/dustinblackman/cf-alias</projectUrl>
+    <projectSourceUrl>https://github.com/dustinblackman/cf-alias</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/dustinblackman/cf-alias/issues</bugTrackerUrl>
+    <docsUrl>https://github.com/dustinblackman/cf-alias/blob/master/README.md</docsUrl>
+    <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/cf-alias</packageSourceUrl>
+    <tags>cf-alias</tags>
+    <copyright></copyright>
+    <licenseUrl>https://github.com/dustinblackman/cf-alias/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
+
