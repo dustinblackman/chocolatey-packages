@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>gomodrun</id>
+    <title>gomodrun</title>
+    <version>0.4.5</version>
+    <authors>dustinblackman</authors>
+    <owners>Dustin Blackman</owners>
+    <summary>The forgotten go tool that executes and caches binaries included in go.mod files</summary>
+    <description>The forgotten go tool that executes and caches binaries included in go.mod files</description>
+    <projectUrl>https://github.com/dustinblackman/gomodrun</projectUrl>
+    <projectSourceUrl>https://github.com/dustinblackman/gomodrun</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/dustinblackman/gomodrun/issues</bugTrackerUrl>
+    <docsUrl>https://github.com/dustinblackman/gomodrun/blob/master/README.md</docsUrl>
+    <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/gomodrun</packageSourceUrl>
+    <tags>gomodrun</tags>
+    <copyright></copyright>
+    <licenseUrl>https://github.com/dustinblackman/gomodrun/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
+
