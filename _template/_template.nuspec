@@ -14,7 +14,6 @@
     <docsUrl>https://github.com/dustinblackman/!!NAME!!/blob/master/README.md</docsUrl>
     <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/!!NAME!!</packageSourceUrl>
     <tags>!!NAME!!</tags>
-    <copyright></copyright>
     <licenseUrl>https://github.com/dustinblackman/!!NAME!!/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies></dependencies>
