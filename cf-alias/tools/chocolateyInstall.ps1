@@ -7,8 +7,8 @@ $toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
     packageName    = $packageName
     unzipLocation  = Split-Path $MyInvocation.MyCommand.Definition
-    url64bit       = 'https://github.com/dustinblackman/cf-alias/releases/download/v0.1.5/cf-alias_0.1.5_windows_amd64.zip'
-    checksum64     = 'fd2f6016d00dd608135c6b3665f0a927c881bf947a806630b74fbf8eee140260'
+    url64bit       = 'https://github.com/dustinblackman/cf-alias/releases/download/v0.1.9/cf-alias_0.1.9_windows_amd64.zip'
+    checksum64     = 'e75c30c292232f66680f9a43ff1d974a282d69301760359e507763365be79c3a'
     checksumType64 = 'sha256'
 }
 

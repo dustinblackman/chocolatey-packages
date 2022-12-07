@@ -3,7 +3,7 @@
   <metadata>
     <id>cf-alias</id>
     <title>cf-alias</title>
-    <version>0.1.5</version>
+    <version>0.1.9</version>
     <authors>dustinblackman</authors>
     <owners>Dustin Blackman</owners>
     <summary>Create Cloudflare email alias' directly from your terminal or Alfred.</summary>
@@ -14,7 +14,6 @@
     <docsUrl>https://github.com/dustinblackman/cf-alias/blob/master/README.md</docsUrl>
     <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/cf-alias</packageSourceUrl>
     <tags>cf-alias</tags>
-    <copyright></copyright>
     <licenseUrl>https://github.com/dustinblackman/cf-alias/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies></dependencies>
