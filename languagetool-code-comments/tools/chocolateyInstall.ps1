@@ -7,8 +7,8 @@ $toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
     packageName    = $packageName
     unzipLocation  = Split-Path $MyInvocation.MyCommand.Definition
-    url64bit       = 'https://github.com/dustinblackman/languagetool-code-comments/releases/download/v0.4.4/languagetool-code-comments_0.4.4_windows_amd64.zip'
-    checksum64     = 'b9447f9a98215e00bb3bf80f4ef09bcaafe59451455daface7a67925862a4bcb'
+    url64bit       = 'https://github.com/dustinblackman/languagetool-code-comments/releases/download/v0.5.0/languagetool-code-comments_0.5.0_windows_amd64.zip'
+    checksum64     = '563126b4a8e380d861a5eabd8f64359d752d3bfb204ac94fa8ddd7df5d06f86a'
     checksumType64 = 'sha256'
 }
 
