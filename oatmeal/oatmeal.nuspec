@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>oatmeal</id>
+    <title>oatmeal</title>
+    <version></version>
+    <authors>dustinblackman</authors>
+    <owners>Dustin Blackman</owners>
+    <summary>Terminal UI to chat with large language models (LLM) using backends such as Ollama, and direct integrations with your favourite editor like Neovim!</summary>
+    <description>Terminal UI to chat with large language models (LLM) using backends such as Ollama, and direct integrations with your favourite editor like Neovim!</description>
+    <projectUrl>https://github.com/dustinblackman/oatmeal</projectUrl>
+    <projectSourceUrl>https://github.com/dustinblackman/oatmeal</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/dustinblackman/oatmeal/issues</bugTrackerUrl>
+    <docsUrl>https://github.com/dustinblackman/oatmeal/blob/master/README.md</docsUrl>
+    <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/oatmeal</packageSourceUrl>
+    <tags>oatmeal</tags>
+    <licenseUrl>https://github.com/dustinblackman/oatmeal/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies></dependencies>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
+
