@@ -1,6 +1,6 @@
 Import-Module au
 
-$releases = 'https://github.com/dustinblackman/oatmeal/releases'
+$releases = 'https://github.com/dustinblackman/##NAME##/releases'
 
 function global:au_SearchReplace {
    @{
