@@ -12,6 +12,7 @@ ZIPFILE="$DISTFOLDER/${APP}_${VERSION}_windows_amd64.zip"
 CHECKSUM=$(shasum -a 256 "$ZIPFILE" | awk '{print $1}')
 
 function replace_template() {
+	grep -s -l "$1" "$APP"/* | xargs -L1 sd "$1" "$2"
 	grep -s -l "$1" "$APP"/**/* | xargs -L1 sd "$1" "$2"
 }
 
