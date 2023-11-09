@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>!!NAME!!</id>
-    <title>!!NAME!!</title>
-    <version>!!VERSION!!</version>
+    <id>##NAME##</id>
+    <title>##NAME##</title>
+    <version>##VERSION##</version>
     <authors>dustinblackman</authors>
     <owners>Dustin Blackman</owners>
-    <summary>!!DESC!!</summary>
-    <description>!!DESC!!</description>
-    <projectUrl>https://github.com/dustinblackman/!!NAME!!</projectUrl>
-    <projectSourceUrl>https://github.com/dustinblackman/!!NAME!!</projectSourceUrl>
-    <bugTrackerUrl>https://github.com/dustinblackman/!!NAME!!/issues</bugTrackerUrl>
-    <docsUrl>https://github.com/dustinblackman/!!NAME!!/blob/master/README.md</docsUrl>
-    <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/!!NAME!!</packageSourceUrl>
-    <tags>!!NAME!!</tags>
-    <licenseUrl>https://github.com/dustinblackman/!!NAME!!/blob/master/LICENSE</licenseUrl>
+    <summary>##DESC##</summary>
+    <description>##DESC##</description>
+    <projectUrl>https://github.com/dustinblackman/##NAME##</projectUrl>
+    <projectSourceUrl>https://github.com/dustinblackman/##NAME##</projectSourceUrl>
+    <bugTrackerUrl>https://github.com/dustinblackman/##NAME##/issues</bugTrackerUrl>
+    <docsUrl>https://github.com/dustinblackman/##NAME##/blob/master/README.md</docsUrl>
+    <packageSourceUrl>https://github.com/dustinblackman/chocolatey-packages/tree/master/##NAME##</packageSourceUrl>
+    <tags>##NAME##</tags>
+    <licenseUrl>https://github.com/dustinblackman/##NAME##/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies></dependencies>
   </metadata>
