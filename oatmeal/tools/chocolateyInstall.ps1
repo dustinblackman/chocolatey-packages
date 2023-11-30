@@ -7,8 +7,8 @@ $toolsDir    = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 $packageArgs = @{
     packageName    = $packageName
     unzipLocation  = Split-Path $MyInvocation.MyCommand.Definition
-    url64bit       = 'https://github.com/dustinblackman/oatmeal/releases/download/v0.5.4/oatmeal_0.5.4_windows_amd64.zip'
-    checksum64     = '577e8aa4715b7a46c11e1911d40f5157275bfa89cace69fe62137b91f821cfae'
+    url64bit       = 'https://github.com/dustinblackman/oatmeal/releases/download/v0.5.5/oatmeal_0.5.5_windows_amd64.zip'
+    checksum64     = '0b0407641981b8cfa43309dc0aa02de11eb71fc5d5bfd79f76d039ba511e484e'
     checksumType64 = 'sha256'
 }
 
