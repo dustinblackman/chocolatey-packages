@@ -7,7 +7,7 @@ VERSION="$2"
 DISTFOLDER="$3"
 GORELEASER="$4"
 
-DESC=$(yq -p=yaml -o=json "$GORELEASER" | jq -rc .scoop.description)
+DESC=$(yq -p=yaml -o=json "$GORELEASER" | jq -rc '.scoops[0].description')
 ZIPFILE="$DISTFOLDER/${APP}_${VERSION}_windows_amd64.zip"
 CHECKSUM=$(shasum -a 256 "$ZIPFILE" | awk '{print $1}')
 
