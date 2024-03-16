@@ -3,7 +3,7 @@
   <metadata>
     <id>oatmeal</id>
     <title>oatmeal</title>
-    <version>0.12.5</version>
+    <version>0.13.0</version>
     <authors>dustinblackman</authors>
     <owners>Dustin Blackman</owners>
     <summary>Terminal UI to chat with large language models (LLM) using backends such as Ollama, and direct integrations with your favourite editor like Neovim!</summary>
